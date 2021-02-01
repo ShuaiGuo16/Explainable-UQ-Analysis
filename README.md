@@ -1,6 +1,9 @@
 ## Open the Black-box: Interpreting the Machine-learned Low-dimensional manifold
 
-<img src="./Images/Highlight.png" width=300 />
+<p align="center">
+  <img src="./Images/Highlight.png" width=300 />
+</p>
+
 
 ### 1. Highlight
 
@@ -26,13 +29,19 @@ To explain the physical interpretation conveyed by the derived low-dimensional m
 
 - We employed the phasor plot of the flame transfer function to visualize results. This visualization practice is not common in the community but helped deliver rich insights in the framework of the current study. 
 
-<img src="./Images/Phasor.png" width=500 height=300 />
+<p align="center">
+  <img src="./Images/Phasor.png" width=300  />
+</p>
+
 
 ### 4. Results
 
 - We analytically recovered the results yielded by the Active Subspace approach.
 
-<img src="./Images/Results.png" width=500 />
+<p align="center">
+  <img src="./Images/Results.png" width=300 />
+</p>
+
 
 - We are able to visualize this active direction, and we can analytically derive the coefficients of this 1D projection.
 
@@ -40,7 +49,9 @@ To explain the physical interpretation conveyed by the derived low-dimensional m
 
 - The insights revealed by the data-driven approach and our analytical derivations allow us to quickly screen the sensitivity of individual input parameters.
 
-<img src="./Images/Sensitivity.png" width=300 />
+<p align="center">
+  <img src="./Images/Sensitivity.png" width=300 />
+</p>
 
 
 ### 5. Folder structure
