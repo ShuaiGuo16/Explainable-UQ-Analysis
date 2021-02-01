@@ -30,7 +30,7 @@ To explain the physical interpretation conveyed by the derived low-dimensional m
 - We employed the phasor plot of the flame transfer function to visualize results. This visualization practice is not common in the community but helped deliver rich insights in the framework of the current study. 
 
 <p align="center">
-  <img src="./Images/Phasor.PNG" width=300  />
+  <img src="./Images/Phasor.PNG" width=500  />
 </p>
 
 
@@ -39,7 +39,7 @@ To explain the physical interpretation conveyed by the derived low-dimensional m
 - We analytically recovered the results yielded by the Active Subspace approach.
 
 <p align="center">
-  <img src="./Images/Results.PNG" width=300 />
+  <img src="./Images/Results.PNG" width=500 />
 </p>
 
 
