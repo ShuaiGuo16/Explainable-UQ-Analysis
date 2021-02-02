@@ -11,7 +11,7 @@
 - We analytically derived a low-dimensional representation of the original system, thanks to the insights revealed by the Active Subspace approach.
 - We achieved even faster instability risk calculations by eliminating costly data-driven subspace identification processes.
 
-This work was firstly presented in [37th International Symposium on Combustion](http://www.combustionsymposia.org/2018/loadpage/program/program), and was later published in the journal:
+This work was initially presented in [37th International Symposium on Combustion](http://www.combustionsymposia.org/2018/loadpage/program/program), and was later published in the journal:
 
 Guo S., Silva C. F., Bauerheim M., Ghani A., Polifke W., [Evaluating the impact of uncertainty in ﬂame impulse response model on thermoacoustic instability prediction: A dimensionality reduction approach](https://www.sciencedirect.com/science/article/abs/pii/S1540748918304383). *Proceedings of the Combustion Institute*, 2019, 37(4), pp. 5299-5306.
 
